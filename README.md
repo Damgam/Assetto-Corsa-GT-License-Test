@@ -3,6 +3,8 @@
  
  *proper readme will come at some point*
 
+ Tested on Custom Shaders Patch 0.2.3 and older. Compatibility with previous versions is not guaranteed.
+
  Installation: drop the license-test folder into `assettocorsa\extension\lua\new-modes`
 
  Usage: run Content Manager and pick License Test gamemode from the custom modes dropdown (under Drag Race)
