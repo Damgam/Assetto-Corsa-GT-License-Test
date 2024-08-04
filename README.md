@@ -3,7 +3,7 @@
  
  *proper readme will come at some point*
 
- Tested on Custom Shaders Patch 0.2.3 and older. Compatibility with previous versions is not guaranteed.
+ Tested on Custom Shaders Patch 0.2.3+. Compatibility with previous versions is not guaranteed.
 
  Installation: drop the license-test folder into `assettocorsa\extension\lua\new-modes`
 
